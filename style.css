@@ -1,3 +1,11 @@
 body {
-    background-color: rgb(72, 255, 0);
+    background-color: rgb(128, 223, 218);
+    text-align: center;
+}
+h1{
+    font-style: italic;
+    color: rgb(122, 163, 240);
+}
+p{
+    color: rgb(124, 226, 184);
 }
