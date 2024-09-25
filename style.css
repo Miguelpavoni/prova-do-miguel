@@ -9,3 +9,11 @@ h1{
 p{
     color: rgb(0, 0, 0);
 }
+h2{
+color: cornflowerblue;
+font-style: italic;
+}
+h3{
+color: cadetblue;
+font-style: italic;
+}
